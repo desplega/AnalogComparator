@@ -1,0 +1,1 @@
+Project for Arduino UNO board to check interrupts using analog input A0, MUX and Analog comparator. 
